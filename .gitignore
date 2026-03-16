@@ -12,3 +12,6 @@ env
 node_modules
 
 DEV-*
+
+notebooks/images/*.png
+notebooks/images/*.mkv
